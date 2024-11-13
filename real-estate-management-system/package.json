@@ -1,0 +1,22 @@
+{
+  "name": "real-estate-management-system",
+  "version": "1.0.0",
+  "description": "The real estate management system",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnologicalJerry/real-estate-management-system.git"
+  },
+  "author": "technojerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnologicalJerry/real-estate-management-system/issues"
+  },
+  "homepage": "https://github.com/TechnologicalJerry/real-estate-management-system#readme",
+  "dependencies": {
+    "real-estate-management-system": "file:"
+  }
+}
